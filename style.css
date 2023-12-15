@@ -382,6 +382,11 @@ a{
     max-width: 30%;
 }
 
+.col-6{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
 /* Estilos para el botón */
 .button {
     display: inline-block;
@@ -396,5 +401,4 @@ a{
 .button:hover {
     background-color: #2980b9;
 }
-
 
